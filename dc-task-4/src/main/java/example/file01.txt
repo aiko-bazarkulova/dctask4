@@ -1,0 +1,322 @@
+Social anxiety is defined as a “marked and persistent fear of social or performance situations” and includes such symptoms as sweating, palpitations, shaking, and respiratory distress. Social anxiety is fairly common, occurring in as much as 13% of the population, and can be extremely disabling. It can be either specific (confined to 1 or 2 performance situations) or generalized, and can be diagnosed with a scale-based questionnaire. Social anxiety may coexist with other disorders, such as depression and dysthymia. The differential diagnosis for social anxiety includes panic disorder, agoraphobia, atypical depression, and body dysmorphic disorder. Treatment for social anxiety can be quite effective and consists of psychotherapy, pharmacotherapy (including such medications as β-blockers, anxiolytics, antidepressants, and anticonvulsants), or a combination. This article details the prevalence, onset, disease impact, and etiology of social anxiety. Specific treatments, including both psychotherapy and pharmacotherapy, are presented in detail, along with other treatment considerations, such as comorbidity.
+
+There is nothing new about social anxiety. One of the earlier descriptions was by Robert Burton in The Anatomy of Melancholy (1621) in reference to a patient of Hippocrates: “He dare not come into company for fear he should be misused, disgraced, overshoot himself in gestures or speeches, or be sick; he thinks every man observeth him.”1
+
+More recently, it was revealed that William Wilson, the physician who accompanied Robert Falcon Scott on his ill-fated trek to the South Pole in 1912, was quite impaired socially: “Yet back at home he found normal social intercourse so difficult that he confided to his diary that he took sedatives before going to parties, and one of his biographers wrote that it required far more courage for him to face an audience than to cross a crevasse.”2(p153)
+
+For these individuals, social anxiety was far from trivial—it substantially compromised their lives. One could make a strong case that today each would meet diagnostic criteria for social anxiety disorder, also known as social phobia. The key feature of social anxiety disorder, according to the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV), is “a marked and persistent fear of social or performance situations in which embarrassment may occur.”3(p411) Exposure to such situations produces considerable anxiety, often as intense as a panic attack, with associated physical symptoms such as sweating, shaking, garbled speech, blushing, palpitations, and gastrointestinal and respiratory distress. Awareness that others may see visible signs of anxiety further compounds anxious feelings. People with social anxiety disorder generally avoid social and performance situations whenever possible or endure them with considerable distress. While it is often said that social anxiety is restricted to social settings, those with the disorder will attest to considerable anxiety in anticipation of social encounters, even when they are very much alone.
+
+Go to:
+DIAGNOSIS
+While the dividing line between social anxiety disorder and being “just a little shy” is not always clear, the former causes marked distress and interferes with relationships and functioning, while the latter is far less disruptive. Social anxiety disorder is either specific or generalized. Specific (also known as limited or discrete) social anxiety is usually confined to 1 or 2 performance situations, such as speaking, musical performance, or writing. Generalized social anxiety is triggered by nearly all social situations (performance and interpersonal interactions).
+
+Clinicians often underestimate the magnitude and pervasiveness of social anxiety in patients unless a comprehensive interview is conducted or a rating scale is completed. For example, the Liebowitz Social Anxiety Scale4 is a 24-item questionnaire that assesses most aspects of social anxiety by rating severity of both anxiety and avoidance. The Social Phobia Inventory (SPIN)5 is a 17-item validated scale that rates fear and avoidance across a wide variety of social situations. An abbreviated form of the SPIN, known appropriately as the Mini-SPIN,6 has proven effective as a screen for social anxiety disorder by asking only 3 questions and rating responses on a scale of 0 (not at all) to 4 (extremely). The questions are used to evaluate whether a person avoids situations or contact because of fear of embarrassment, avoids being the center of attention, or strongly fears being embarrassed or looking stupid.
+
+At the far extreme of social anxiety severity is a condition referred to in the DSM-IV as avoidant personality disorder. It is characterized by “a pervasive pattern of social inhibition, feelings of inadequacy, and hypersensitivity to negative evaluation that begins by early adulthood and is present in a variety of contexts.”3(p662) Avoidant personality disorder is currently viewed as a severe form of generalized social anxiety disorder for which conventional therapies are likely to be effective.
+
+Differential Diagnosis
+
+Differential diagnosis of social anxiety disorder involves distinguishing it from panic disorder, agoraphobia, atypical depression, and body dysmorphic disorder. Panic disorder is characterized by recurrent unexpected panic attacks, in contrast to the panic attacks of social anxiety disorder that are provoked by and confined to social encounters. Agoraphobia involves anxiety about being in situations or places where escape may be compromised; an agoraphobic individual would avoid a shopping mall because of the crowd, while someone with social anxiety disorder would avoid that setting because of fear of social interaction. Atypical depression, like social anxiety disorder, is characterized by rejection sensitivity, but unlike social anxiety disorder it is also associated with low mood, hypersomnia, increased appetite or weight gain, and a sense of leaden paralysis. Individuals with body dysmorphic disorder are excessively concerned about imagined defects in appearance, but this preoccupation transcends social settings.
+
+Go to:
+COMORBIDITY
+The differential diagnosis of social anxiety disorder would be relatively uncomplicated except for the confounding factor of comorbidity. Frequently, social anxiety disorder coexists with 1 or more mood, anxiety, or substance use disorders. Although studies cite varying percentages, they tend to confirm a disturbingly high lifetime prevalence of comorbid conditions such as major depression, dysthymia, panic disorder, generalized anxiety disorder, specific phobia, and alcohol and other substance abuse. Since a comorbid condition is frequently the driving force pushing a patient toward evaluation and treatment, social anxiety disorder often gets overlooked.
+
+As expected, the coexistence of 2 or more disorders can greatly complicate treatment and adversely affect prognosis. For example, there is no question that alcohol played a destructive role in the life of baseball superstar Mickey Mantle. Whether he had social anxiety disorder is less clear, although this quote in an interview in Sports Illustrated is quite suggestive: “In the past five years I used alcohol as a crutch. To help me overcome my shyness and make me feel more comfortable before all those personal appearances, I'd warm up with three or four vodkas before leaving the hotel, go straight to the cocktail party and have three or four more drinks, and then I'd start feeling, Whew, all right. Let's go.”7(p67)
+
+Numerous studies have found increased rates of social phobia in alcoholic patients and increased rates of alcoholism in social phobia patients, with the onset of social phobia typically preceding that of alcoholism.8 This temporal association may lead one to deduce that for some patients, early recognition and treatment of social anxiety disorder might prevent the subsequent development of alcoholism.
+
+Go to:
+PREVALENCE, ONSET, AND IMPACT
+Social anxiety disorder is a common condition. The National Comorbidity Survey of more than 8000 individuals in the contiguous 48 states found a lifetime prevalence of 13.3% and a 12-month prevalence of 7.9%.9 More recently, a community survey from Germany of 3021 individuals aged 14 to 24 years found a lifetime prevalence of 9.5% in women and 4.9% in men.10 Closer to home, Katzelnick et al.11 screened more than 3000 members of a health maintenance organization (HMO) in Madison, Wisconsin, and found that 8.2% met criteria for social anxiety disorder. A particularly disturbing finding from this study was that only 0.5% had been diagnosed previously. In the primary care setting, Stein et al.12 found that 7% of 511 patients were afflicted with social anxiety disorder.
+
+Social anxiety disorder usually begins in childhood or adolescence. The mean age at onset is 10 to 13 years, although a substantial minority (21%) reported onset between ages 0 and 5 years.13 Patients from the very early onset group describe the disorder as having been present for as long as they can remember. In community samples, women are overrepresented by a ratio of up to 2 to 1, while in clinical settings the gender distribution is often more even.14 Once present, social anxiety disorder is likely to be persistent and debilitating.
+
+The impact of social anxiety disorder on quality of life is enormous. A study from Germany found that the unemployment rate was 3 times higher, mean work hours missed were increased substantially, and performance was impaired significantly in patients with social phobia.15 Similar findings were reported by Katzelnick et al.,11 who found that social phobia had a marked negative impact on earning ability, educational level, and vocational achievement. Individuals with social anxiety disorder commonly report remaining in “safe” lower level jobs rather than accepting more socially demanding promotions.
+
+Go to:
+ETIOLOGY
+So what causes social anxiety disorder? A reasonable answer would encompass the interplay of genetic, developmental, and neurobiological factors. Family studies of individuals with social anxiety disorder show a higher incidence of the disorder than that found in the general population, and a twin study found a concordance rate of 15.3% in dizygotes and a 24.4% concordance in monozygotes.16 Hirschfeld-Becker et al.17 summarized work by Kagan and others describing a temperament referred to as behavioral inhibition. This temperament is present in 10% to 15% of children studied and first manifests in toddlers with “retreat, avoidance and quiet restraint or fear in the face of unfamiliar situations, objects or people.”17(p52) Follow-up studies suggest that behavioral inhibition may be an important predisposition to developing social phobia and other anxiety disorders. Many other factors influence individuals during the course of development and are likely to interact in complex ways to promote or prevent the onset of social anxiety disorder. Some individuals with social anxiety disorder associate its onset with a specific social event or interaction that was particularly embarrassing or humiliating. Such a circumstance could be considered an adverse conditioning stimulus.
+
+If one looks to neurobiology for an etiologic explanation, the findings thus far are meager. Other than the fact that selective serotonin reuptake inhibitors (SSRIs) are effective treatments for social anxiety disorder, there is little evidence to implicate dysfunction of the serotonergic system. Likewise, despite a well-established link between fear and adrenaline, noradrenergic dysfunction has yet to be established as an important etiologic factor. Dopaminergic dysfunction is also unlikely, especially since dopamine agonists and antagonists have no important role in treating social anxiety disorder.
+
+On the other hand, a neuroimaging study did find lower D2 receptor binding potential in the striatum of 10 subjects with generalized social phobia compared with 10 healthy controls.18 Attempts to implicate abnormalities of neuroendocrine systems or immune function have been similarly unrewarding.19 Stein20 concludes his thoughtful review by stating, “It is clear that we have a long way to go before we can speak with authority about the ‘neurobiology of social phobia.’”(p1282) It seems inescapable that multiple risk factors are involved in the etiology of social anxiety disorder and that further research will be necessary to clarify these ambiguities.
+
+Go to:
+TREATMENT
+While the exact etiology of social anxiety disorder remains enigmatic, treatment strategies have become reasonably well defined and gratifyingly successful. Treatment effectiveness is particularly striking in that patients have often been ill for decades. For example, the mean duration of illness was about 15 years in a study of paroxetine21 and well over 20 years in a study of gabapentin.22
+
+Before addressing the specifics of psychological and pharmacologic interventions, establishing an educational foundation is important. Given the early onset and long duration of illness in most patients, many have accepted it as an immutable part of their personalities so that the possibility that substantial change could occur may be difficult to accept. In addition, when change does occur, it can have a temporarily disruptive effect on long-established relationships that may require interpersonal rebalancing. Written materials can be helpful in providing the necessary foundation. My colleagues and I wrote Social Anxiety Disorder: A Guide,23 which has been effective in helping to educate patients, and there are several other useful nontechnical publications available.24–26 The social anxiety disorders Web site at www.socialanxiety.factsforhealth.org is also a useful resource.
+
+Some individuals, particularly those with public speaking anxiety, find nonprofessional programs such as Toastmasters to be beneficial. By repeatedly applying the principles of preparation, rehearsal, and exposure, they can often achieve a level of comfort in performance settings.
+
+Psychotherapy
+
+Formal psychotherapies for social anxiety disorder include social skills training, exposure in vivo, cognitive therapy, and cognitive-behavioral therapy (individual and in groups).27 While these treatments can be quite effective, finding well-trained, experienced therapists may be difficult. (Both the Madison Institute of Medicine, Inc., 7617 Mineral Point Road, Suite 300, Madison, WI 53717, (608) 827-2470, and the Anxiety Disorders Association of America, 11900 Parklawn Drive, Suite 100, Rockville, MD 20852-2624, (301) 231-9350, are referral sources.) In addition, these programs require a substantial commitment of time and effort by the patient. Since repeated exposure to feared situations is an integral part of treatment, some find it difficult to structure an adequate exposure paradigm. For example, the timing and duration of weekly sales meetings may be immutable, opportunities for speaking before large audiences may be limited, and confronting the boss for a raise is usually not conducive to repeated, lengthy contacts.
+
+Social skills training involves teaching patients the essential verbal and nonverbal skills necessary to effectively and comfortably interact with others. Rehearsal and role-playing with exposure are critical elements. Social skills training is a central component of an intervention known as social effectiveness training.28
+
+Exposure therapy (also referred to as behavior therapy) is based on the premise that continued exposure to feared situations leads to anxiety reduction by habituation. An example might be repeatedly asking strangers for directions to a location across town until the process becomes comfortable. In general, exposure needs to be repeated and lengthy to be effective.
+
+Cognitive therapy focuses on correcting the irrational thoughts or beliefs that contribute to inappropriate social anxiety. Ultimately, an element of exposure is almost always introduced into a cognitive schemata.
+
+Cognitive-behavioral therapy, or CBT, is the best-studied psychotherapeutic approach to social anxiety disorder. CBT blends the best of exposure therapy and cognitive therapy using cognitive restructuring, exposure simulation, and in vivo homework assignments. Heimberg and others29 developed cognitive-behavioral group therapy (CBGT), which provides CBT in a group setting. It has been shown to be as effective as pharmacotherapy for social phobia and may provide a greater likelihood of maintaining response following termination of treatment.30
+
+Pharmacotherapy
+
+While paroxetine is currently the only medication with a U.S. Food and Drug Administration (FDA) indication for social anxiety disorder, the range of effective medications is considerably more extensive.31–33
+
+β-Blockers. As early as the 1970s, these drugs were shown to be effective in single-dose, double-blind, crossover studies for treating both public speaking and musical performance anxiety.33 They are thought to work by reducing autonomic arousal (i.e., less tremor, palpitation, and sweating) and interrupting an otherwise vicious cycle of somatic symptoms and increased anxiety. A β-blocker is usually taken 1 to 1½ hours before a performance (after having tried a dose at home to be sure that there are no idiosyncratic reactions). Typical doses are 20 to 40 mg of propranolol or 25 to 100 mg of atenolol. Of interest is a survey of presenters at the 1983 American College of Cardiology Annual Meeting that found that 13% took a β-blocker to allay performance anxiety.34 While β-blockers on an as-needed basis may benefit performance anxiety, they have not proven useful on a scheduled basis for treating generalized social anxiety.
+Anxiolytic Pharmcotherapy
+
+Benzodiazepines. A benzodiazepine anxiolytic would seem like a logical choice to treat social anxiety. While results with alprazolam in a controlled study were not particularly impressive (perhaps because all patients also received self-directed exposure), clonazepam withstood the scrutiny of a 10-week, placebo-controlled trial. At a mean daily dose of 2.4 mg, 78% of patients responded, compared with 20% on placebo.35 Clonazepam was also shown to be more effective than placebo in a 5-month maintenance study.36 Since benzodiazepines have been off-patent for quite some time, it is unlikely that further definitive studies will be forthcoming. Positive aspects of benzodiazepines include rapid onset, good tolerability, overdose safety, and flexibility of dosing. Disadvantages include side effects such as sedation, incoordination, and sexual dysfunction, as well as abuse potential, discontinuation difficulties, adverse interactions with other drugs and alcohol, and lack of antidepressant activity (given the high comorbidity of social phobia with depression).
+Buspirone. While buspirone showed promise in open studies of social anxiety disorder, 2 placebo-controlled trials were not particularly encouraging.32 Some feel that further studies at higher doses (e.g., 60 mg/day) might be more productive; nonetheless, buspirone is not currently a leading drug for treating social anxiety disorder.
+Antidepressant Pharmacotherapy
+
+Monoamine oxidase inhibitors (MAOIs). Phenelzine, an irreversible, nonselective MAOI, is an effective treatment for generalized social phobia,37 but its adverse event profile, the need for dietary restrictions, and the risk of hypertensive and hyperthermic crises have relegated it and other members of its class to treatments of last choice. The reversible inhibitors of monoamine oxidase A (RIMAs) such as moclobemide and brofaromine promised a wide safety margin and freedom from dietary restrictions, but for various reasons their development was terminated in the United States several years ago.
+Tricyclics. While tricyclic antidepressants are effective treatments for depression, they do not appear particularly useful for treating social anxiety disorder.
+Selective serotonin reuptake inhibitors. The spectrum of SSRI effectiveness extends well beyond depression and now encompasses social anxiety disorder, for which these drugs have become the treatments of choice.38 Large double-blind, placebo-controlled studies established the effectiveness of paroxetine (which is FDA approved for social anxiety disorder), sertraline, and fluvoxamine. Open studies suggest that citalopram and fluoxetine are also effective.
+In general, SSRIs manifest their benefits gradually over several weeks at doses consistent with those used to treat depression. For example, Baldwin et al.21 found paroxetine at a mean daily dose of 34.7 mg/day to be more effective than placebo beginning at 4 weeks of treatment. A fixed-dose study of paroxetine39 found 20, 40, and 60 mg to be equally effective, suggesting that time rather than dose may be the critical factor in achieving response. In view of the chronicity of social anxiety disorder and the slow onset of action of SSRIs, it would seem reasonable to persist with the starting dose for at least a month before considering an increase. Starting doses include the following: citalopram, 20 mg; fluoxetine, 20 mg; fluvoxamine, 50 mg; paroxetine, 20 mg; and sertraline, 50 mg.
+
+There are no studies comparing one SSRI with another for treating social anxiety disorder, and there is no evidence that one is more effective than another. Choice of drug therefore depends on whether an approved indication for social anxiety disorder is a comfort factor, as well as considerations based on personal preferences of both patient and physician, side effect profiles, and compatibility with other medications the patient may be taking.
+
+Other antidepressants. Mirtazapine, nefazodone, venlafaxine, and bupropion have all shown promise as treatments for social anxiety disorder, but results have been derived only from small, open-label case reports and case series.32
+Anticonvulsant Pharmacotherapy
+
+Only 2 anticonvulsants have been studied in controlled trials as treatments for social anxiety disorder: gabapentin, which is currently marketed as a treatment for epilepsy, and pregabalin, an investigational drug. The rationale behind studying these drugs included observations of reduced anxiety, improved mood, and increased well-being in patients with epilepsy and favorable findings in animal models of anxiety. In a 14-week, placebo-controlled trial involving 69 adults with social anxiety disorder, gabapentin outperformed placebo as measured by reduction of scores on the Liebowitz Social Anxiety Scale (−27.3 points versus −11.9 points on placebo).22 Early terminations due to adverse events occurred in 21% taking gabapentin and 11% taking placebo. Since the study design encouraged dosing as high as 3600 mg/day, the mean daily dose of 2868 mg is likely to be more than necessary to effectively treat many patients. Studies directly comparing gabapentin with SSRIs have not been conducted.
+
+Pregabalin, like gabapentin, is an analog of γ-aminobutyric acid, an inhibitory neurotransmitter. It is currently under investigation as a treatment for social anxiety disorder, with one study thus far showing promising results.40
+
+Go to:
+TREATMENT CONSIDERATIONS
+For individuals with specific social anxiety disorder, non-pharmacologic treatments range from self-help programs to a more formal cognitive-behavioral approach administered by a qualified therapist (who is often hard to find). Pharmacotherapy is generally used as needed, with β-blockers being the preferred medication. Benzodiazepines are sometimes successful but may impair cognition and coordination.
+
+Generalized social anxiety disorder is amenable to both psychotherapy and pharmacotherapy, either alone or in combination. A cognitive-behavioral approach is preferable, either individually or in a group utilizing a therapist trained specifically to administer this type of treatment. Pharmacotherapy should be scheduled, rather than used as needed, with SSRIs being the drugs of first choice. Patients should be reminded that several weeks may be required to see progress and several months to maximize benefit.
+
+Should an SSRI be ineffective or not tolerated, changing to a different SSRI may be beneficial. Alternatively, treatment could be switched to a benzodiazepine (clonazepam is the best studied) or gabapentin. In patients who are partial responders, adding one of these drugs to an SSRI may produce further improvement; remember that some SSRIs may interfere with benzodiazepine metabolism, while gabapentin is devoid of pharmacokinetic interactions. Although the newer antidepressants (bupropion, mirtazapine, nefazodone, venlafaxine) are not established treatments for social anxiety disorder, they can be considered if better-defined approaches prove ineffective.
+
+Relatively little has been written about the optimal duration of effective and well-tolerated pharmacotherapy. Given the chronicity of social anxiety disorder, treatment should be continued for at least a year before an attempt is made to taper and discontinue the medication. Even then, the relapse rate is likely to be high, especially if cognitive-behavioral therapy has not been incorporated into the treatment regimen.
+
+Go to:
+DEALING WITH COMORBIDITY
+Primary care physicians may choose to refer patients with comorbid conditions to a psychiatrist for either consultation or ongoing treatment, although this is sometimes either impractical (limited resource availability) or unnecessary. For example, a primary care physician may feel comfortable treating a patient who has social anxiety disorder and major depression because a single drug (usually an SSRI) is likely to be effective for both conditions. However, comorbid social anxiety disorder and obsessive-compulsive disorder may not respond to treatment with SSRIs, as demonstrated by a small retrospective study in which improvement in both conditions was the exception rather than the rule.41 In general, a multifactorial approach is usually necessary to deal with social anxiety disorder when it is associated with comorbidity. For example, social anxiety might be treated with an SSRI and comorbid alcohol dependence with naltrexone and 12-step facilitation therapy. The biggest obstacle to dealing with comorbidities is actually not the treatments required, but rather the failure to recognize them in the first place.
+
+Go to:
+CONCLUSIONS
+Social anxiety disorder is a common, chronic, often disabling yet greatly underrecognized condition. It is also a condition for which effective therapies (both pharmacologic and psychotherapeutic) are readily available. The impact of treatment can be strikingly beneficial, even in individuals who have been suffering with the condition for decades.
+
+Drug names: alprazolam (Xanax and others), atenolol (Tenormin and others), bupropion (Wellbutrin), buspirone (BuSpar), citalopram (Celexa), clonazepam (Klonopin and others), fluoxetine (Prozac), fluvoxamine (Luvox), gabapentin (Neurontin), mirtazapine (Remeron), naltrexone (ReVia), nefazodone (Serzone), paroxetine (Paxil), phenelzine (Nardil), propranolol (Inderal and others), sertraline (Zoloft), venlafaxine (Effexor).
+
+Go to:
+Footnotes
+Financial disclosure: Dr. Jefferson has received grant/research support from Abbott, Bristol-Myers Squibb, Forest, GlaxoSmithKline, Lilly, Novartis, Organon, Janssen, Pfizer, Solvay, and Wyeth-Ayerst; has served as a consultant for GlaxoSmithKline, Novartis, Scios, and TAP; has received lecture honoraria from Bristol-Myers Squibb, Forest, GlaxoSmithKline, Janssen, Lilly, Novartis, Pfizer, Pharmacia & Upjohn, Solvay, and Wyeth-Ayerst; is a minor stock shareholder in GlaxoSmithKline and Scios and principal in Healthcare Technology Systems, Inc.; and has received various other financial or material support from time to time from the pharmaceutical companies listed above.
+
+Go to:
+REFERENCES
+Burton R. The Anatomy of Melancholy, vol 1. 11th ed. London, England: Thomas Tegg, Cheapside. 1845. 253 [Google Scholar]
+Wheeler S. Terra Incognita. New York, NY: Random House. 1996. [Google Scholar]
+American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition. Washington, DC: American Psychiatric Association. 1994. [Google Scholar]
+Liebowitz MR. Social phobia. Mod Probl Pharmacopsychiatry. 1987;22:141–173. [PubMed] [Google Scholar]
+Connor KM, Davidson JRT, Churchill LE, et al. Psychometric properties of the Social Phobia Inventory (SPIN) Br J Psychiatry. 2000;176:379–386. [PubMed] [Google Scholar]
+Connor KM, Kobak KA, Churchill LE, and et al. The Mini-SPIN: a brief screening assessment for social phobia. Presented at the 12th annual congress of the European College of Neuropsychopharmacology; Sept 21–25. 1999 London, England. [PubMed] [Google Scholar]
+Mantle M, Lieber J. Time in a bottle. Sports Illustrated. 1994 Apr 18;:66–77. [Google Scholar]
+Lépine J-P, Pélissolo A. Social phobia and alcoholism: a complex relationship. J Affect Disord. 1998;50:S23–S28. [PubMed] [Google Scholar]
+Kessler RC, Stein MB, Berglund P. Social phobia subtypes in the National Comorbidity Survey. Am J Psychiatry. 1998;155:613–619. [PubMed] [Google Scholar]
+Wittchen H-U, Stein MB, Kessler RC. Social fears and social phobia in a community sample of adolescents and young adults: prevalence, risk factors and co-morbidity. Psychol Med. 1999;29:309–323. [PubMed] [Google Scholar]
+Katzelnick DJ, Kobak KA, Helstad CP, and et al. The direct and indirect costs of social phobia in managed care patients. In: Anxiety Disorders Association of America, 19th National Conference; March 27, 1999; San Diego, Calif. Abstract. 305R-3. 82. [Google Scholar]
+Stein MB, McQuaid JR, Laffaye C, et al. Social phobia in the primary care medical setting. J Fam Pract. 1999;49:514–519. [PubMed] [Google Scholar]
+Schneier FR, Johnson J, Hornig CD, et al. Social phobia: comorbidity and morbidity in an epidemiologic sample. Arch Gen Psychiatry. 1992;49:282–288. [PubMed] [Google Scholar]
+Lépine J-P, Pélissolo A. Epidemiology and comorbidity of social anxiety disorder. In: Westenberg HGM, den Boer JA, eds. Focus on Psychiatry Social Anxiety Disorder. Amsterdam, the Netherlands: Syn-Thesis Publishers. 1999 29–45. [Google Scholar]
+Wittchen H-U, Beloch E. The impact of social phobia on quality of life. Int Clin Psychopharmacol. 1996;11(suppl 3):15–23. [PubMed] [Google Scholar]
+Kendler KS, Neale MC, Kessler RC, et al. The genetic epidemiology of phobias in women: the interrelationship of agoraphobia, social phobia, situational phobia, and simple phobia. Arch Gen Psychiatry. 1992;49:273–281. [PubMed] [Google Scholar]
+Hirschfeld-Becker DR, Fredman SJ, Robin JA, and et al. The aetiology of social anxiety disorder. In: Westenberg HGM, den Boer JA, eds. Focus on Psychiatry Social Anxiety Disorder. Amsterdam, the Netherlands: Syn-Thesis Publishers. 1999:47–79. [Google Scholar]
+Schneier FR, Liebowitz MR, Abi-Dargham A, et al. Low dopamine D2 receptor binding potential in social phobia. Am J Psychiatry. 2000;157:457–459. [PubMed] [Google Scholar]
+Mendlowicz MV, Stein MB. The biological basis of social anxiety disorder. In: Westenberg HGM, den Boer JA, eds. Focus on Psychiatry Social Anxiety Disorder. Amsterdam, the Netherlands: Syn-Thesis Publishers. 1999 81–108. [Google Scholar]
+Stein MB. Neurobiological perspectives on social phobia: from affiliation to zoology. Biol Psychiatry. 1998;44:1277–1285. [PubMed] [Google Scholar]
+Baldwin D, Bobes J, and Stein DJ. et al., and The Paroxetine Study Group. Paroxetine in social phobia/social anxiety disorder: randomised, double-blind, placebo-controlled study. Br J Psychiatry. 1999 175:120–126. [PubMed] [Google Scholar]
+Pande AC, Davidson JRT, Jefferson JW, et al. Treatment of social phobia with gabapentin: a placebo-controlled study. J Clin Psychopharmacol. 1999;19:341–348. [PubMed] [Google Scholar]
+Greist JH, Jefferson JW, and Katzelnick DJ. Social Anxiety Disorder: A Guide. Madison, Wisc: Information Centers, Madison Institute of Medicine. 2000 [Google Scholar]
+Schneier F, Welkowitz L. The Hidden Face of Shyness: Understanding & Overcoming Social Anxiety. New York, NY: Avon Books. 1996 [Google Scholar]
+Marshall JR. Social Phobia: From Shyness to Stage Fright. New York, NY: BasicBooks. 1994 [Google Scholar]
+Markway BG, Carmin CN, Pollard CA, and et al. Dying of Embarrassment: Help for Social Anxiety & Phobia. Oakland, Calif: New Harbinger Publications. 1992 [Google Scholar]
+Oosterbaan DB, van Dyck R. Non-drug treatment for social anxiety disorder. In: Westenberg HGM, den Boer JA, eds. Focus on Psychiatry Social Anxiety Disorder. Amsterdam, the Netherlands: Syn-Thesis Publishers. 1999 191–205. [Google Scholar]
+Shear MK, Beidel DC. Psychotherapy in the overall management strategy for social anxiety disorder. J Clin Psychiatry. 1998;59(suppl 17):39–44. [PubMed] [Google Scholar]
+Heimberg RG, Salzman D, Holt CS, et al. Cognitive-behavioral group treatment of social phobia: effectiveness at 5-year follow-up. Cognit Ther Res. 1993;17:325–339. [Google Scholar]
+Liebowitz MR, Heimberg RG, Schneier FR, et al. Cognitive-behavioral group therapy versus phenelzine in social phobia: long term outcome. Depress Anxiety. 1999;10:89–98. [PubMed] [Google Scholar]
+Sareen J, Stein M. A review of the epidemiology and approaches to the treatment of social anxiety disorder. Drugs. 2000;59:497–509. [PubMed] [Google Scholar]
+Van Ameringen M, Mancini C, Farvolden P, et al. Pharmacotherapy for social phobia: what works, what might work, and what does not work at all. CNS Spectrums. 1999;4:61–68. [PubMed] [Google Scholar]
+Jefferson JW. Social phobia: a pharmacologic treatment overview. J Clin Psychiatry. 1995;56(suppl 5):18–24. [PubMed] [Google Scholar]
+Gossard D, Dennis C, DeBusk RF. Use of beta-blocking agents to reduce the stress of presentation at an international cardiology meeting: results of a survey. Am J Cardiol. 1984;54:240–241. [PubMed] [Google Scholar]
+Davidson JRT, Potts N, Richichi E, et al. Treatment of social phobia with clonazepam and placebo. J Clin Psychopharmacol. 1993;13:423–428. [PubMed] [Google Scholar]
+Connor KM, Davidson JRT, Potts NLS, et al. Discontinuation of clonazepam in the treatment of social phobia. J Clin Psychopharmacol. 1998;18:373–378. [PubMed] [Google Scholar]
+Liebowitz MR, Schneier F, Campeas R, et al. Phenelzine vs atenolol in social phobia: a placebo-controlled comparison. Arch Gen Psychiatry. 1992;49:290–300. [PubMed] [Google Scholar]
+Van Ameringen M, Mancini C, Oakman JM, et al. Selective serotonin reuptake inhibitors in the treatment of social phobia: the emerging gold standard. CNS Drugs. 1999;11:307–315. [Google Scholar]
+Lydiard RB, Bobes J. Therapeutic advances: paroxetine for the treatment of social anxiety disorder. Depress Anxiety. 2000;11:99–104. [PubMed] [Google Scholar]
+Feltner DE, Robinson P, Janney C, and et al. A placebo-controlled study of pregabalin treatment of social phobia [poster]. Presented at the 38th annual meeting of the American College of Neuropsychopharmacology; Dec 12–16, 1999; Acapulco, Mexico. [Google Scholar]
+Carrasco JL, Hollander E, Schneier FR, et al. Treatment outcome of obsessive compulsive disorder with comorbid social phobia. J Clin Psychiatry. 1992;53:387–391. [PubMed] [Google Scholar]
+
+
+The "nothing" is one possibility, the "all" is another.  Thus, if I attempt to
+depict my phantasies about "all," then this is not to say anything against
+"nothing."  In contrast to nothing, "all" today is relatively poorly defined,
+and appears to be less realistic.  No one subjects himself to ridicule through
+pessimistic predictions.  It is worth expanding the "all" somewhat, if for no
+other reason than to perhaps make "nothing" even more enticing...
+
+Politic Real
+
+During my reconnaissance missions into the second reality, I came across
+bolo'bolo.  This is my provisional, personal dream of a world in which I would
+like to live as a vagabond or in a certain bolo.  To this extent, it is quite
+serious.  On the other hand, it is only an idea shared by many people, a
+hypothesis that can be dreamed up and then forgotten, a disposable utopia.  I
+would really like to see bolo'bolo become reality within five years, but I also
+know that it can only be a flip among many.  Even if it is only an incentive
+and encouragement to others to let out their fantasies for the future as well,
+then bolo'bolo would serve its purpose...
+
+I imagine that bolo'bolo or other dreams could entice those resigned to real
+politics out of their apathy, and that in this way a new "politic real" could
+emerge.  A politics (i.e., contact with oneself and with others) that is based
+not only on preventing the "worst," but also on certain, wherever possible
+practical, but also comprehensive ideas, from whence it then attempts to
+project itself into the present.  This could mean, for example, trying to
+establish tega-sadis (see below) even today, and demanding the proper
+buildings.
+
+However, it is not really a question of assessing the feasibility of bolo'bolo,
+nor of its (modest) potential uses in present-day situations; rather, it is a
+question of itself.  For this reason, I have gone to some (but not too much)
+effort to determine whether bolo'bolo could function, in purely technical
+terms, in an area like Switzerland (which would in that case not necessarily
+continue to exist), and how long it would take to implement it.  The available
+data indicate that bolo'bolo could be essentially introduced within five years.
+I have taken the fears of many people in Switzerland (one of the most heavily
+insured countries in the world) into account and determined that no one would
+have to starve, freeze to death or die any earlier than today.  Bolo'bolo
+guarantees a soft landing into the second reality.
+
+Five years (only three, according to the delegate for economic war provisions)
+would be enough time to convert agriculture to self-sufficiency.  Through
+improvisation, understanding and joy in chaos, the major confusion can be
+overcome.  If the nimas are strong enough, the state machinery can be paralyzed
+and the factories are shut down, there will be enough time and energy for the
+big day of restraint X.
+
+Still, bolo'bolo is a planetary arrangement and can only exist if it is at
+least dominant on a worldwide scale (about the same degree as the money economy
+today).  Nevertheless, bolo'bolo as a beginning in a country--such as
+Switzerland, which is especially well-suited to it--is conceivable, since it is
+part of the worldwide process.  Switzerland could move ahead, since it is
+compact, it would not cause any major political shifts, it has a certain model
+character in terms of level of industrialization, and it is also centrally
+positioned in Europe.  The disruptions in the international banking system
+could also be overcome...
+
+But things could turn out completely different.
+
+[p 61:  Unattributed article]
+
+Secret Code Detected by Satellite?
+
+United States Engrossed in Spectacular Data Theft
+
+New Brunswick (DPA)--The U.S. media are currently engrossed in a new,
+spectacular case of "data burglary" reportedly involving seven young computer
+enthusiasts, known as "hackers."  The young people, who live in New Jersey and
+whose names have not been disclosed because they are all under 18 years of age,
+are said to have tapped into data bases, penetrated the communication system of
+the telephone company AT&T, and even cracked codes in the Department of
+Defense.
+
+As the prosecutors reported, telephone services and data bases were supposedly
+hit for thousands of dollars.  Some estimates of the damage even go into the
+millions.  The young people, who are being charged with "conspiracy to theft,"
+are said to have stored code numbers in their home computers with which the
+positions of communications satellites can be altered and transcontinental
+phone calls can be interrupted or placed.
+
+On one of the hackers' electronic bulletin boards, coded telephone numbers were
+found that gave the teenagers access to a communications system in the U.S.
+Department of Defense, said district attorney Alan Rockoff.  "We dialed one of
+the numbers," says Rockoff, "and got a lieutenant general at the Pentagon."
+
+According to the daily USA TODAY, the hackers also called in information on
+U.S. Army tanks, and ordered stereos and radar detectors from mail-order houses
+using stolen credit card numbers.  In order to assess the full range of the
+"data theft," the prosecutors must still examine six computers and mountains of
+floppy diskettes.
+
+The seven accused hackers reportedly did not know each other personally, but
+rather exchanged information via their computers.  In an interview with the NEW
+YORK TIMES, one of the teenagers said that he was innocent, and thus not
+particularly upset by the charges.
+
+An AT&T spokesman said that there was no indication that the young people even
+attempted to alter the positions of satellites.  And the Pentagon assured that
+its computer systems are hacker-safe.  Based on previous experience with
+hackers, however, computer experts doubt this assertion.
+
+[p 61:  Unattributed article]
+
+Engelhard Wants to Restrict Computer Crime
+
+Targeted Prosecution and "Social Control"
+
+Bonn, 16 July--Minister of Justice Engelhard wants to strengthen efforts to
+halt white-collar crime by creating criminal liability for "computer crimes."
+Besides improving judicial organization through white-collar crime divisions
+and using "targeted prosecution," rethinking in terms of "social control" is
+also necessary, the minister believes.  Despite the large amount of damage that
+they inflict and their assault on the foundations of the economic system, these
+criminals continue to be secretly admired.  "White-collar crimes must be
+subjected to the same level of ostracism in our society as other criminal
+misdeeds."  He added that this is not the equivalent of skipping out on a bar
+tab, riding the streetcar without paying or sneaking a beer on the sly.
+Rather, public prosecutors estimate that white-collar crime inflicted damages
+totalling DM 6.9 billion in 1983.
+
+Up to now, Engelhard said, it has been particularly difficult to uncover and
+punish criminal acts conducted with computers.  The second law on combatting
+white-collar crime, which is currently under deliberation in the Bundestag
+justice committee and which he hopes to see passed this year, should close
+legal loopholes.  In many cases, the current provisions have been inadequate.
+For example, if money is set aside for one's own benefit through a computer
+manipulation, then this cannot be considered embezzlement, since that crime
+presupposes a special role by the perpetrator in overseeing the money that he
+"burgled."  Another example:  Withdrawing a sum of money from an automatic
+teller machine using a falsified ATM card is not necessarily robbery under the
+law, since the money is not acquired through breaking into someone else's
+safekeeping, and since the money in question is not a purloined object, but
+rather a claim by the account-holder from his bank.  Engelhard provided a
+planned list of punishable computer crimes:  computer manipulation, computer
+espionage, computer sabotage and unauthorized use of data processing.  As an
+example of computer manipulation, he cited the example of an employee with a
+Bavarian employment office who had DM 250,000 credited to his family by
+improperly inputting child subsidy payments, including alleged child subsidy
+payments for his grandparents, who were over 80 years old.  As "computer
+espionage," he noted the experiment by a Hamburg "Chaos Computer Club," which
+managed to acquire the password for the Hamburger Sparkasse, which enabled them
+to repeatedly call in BTX pages and perpetrate a fraud to the tune of DM
+135,000.  However, this took place under the supervision of the Hamburg data
+protection commissioner.  As potential sabotage, the minister mentioned the
+insertion of a "logical time bomb" in a program.  Someone had instructed a
+program to destroy itself two years after its release at three o'clock in the
+afternoon, which did in fact happen.  For several days, 300 terminals were out
+of order, Engelhard said.  An insurance company dealing with computer misuse
+surveyed 13,000 companies with data processing, 30 percent of which indicated
+the presence of manipulation of data processing.  Engelhard also turned his
+attention towards  the misuse of home computers by "hackers."  The cracking of
+access codes, he said, is not a game, but rather "electronic trespassing."  Nor
+is stealing programs (software piracy) a trivial offense; a Hanover high school
+student allegedly inflicted damages totalling DM 23 million through
+unauthorized copying.  Thus, Engelhard said, it is proper that programs be
+covered by copyright in the amended copyright law, and that criminal acts
+henceforth be punishable by a maximum sentence of five years in prison (was one
+year).
+
+Furthermore, the second law for combatting white-collar crime is intended to
+avert capital investment fraud and curb dubious futures trading, as well as to
+standardize the mix of penal provisions pertaining to the misappropriation of
+wages.
+
